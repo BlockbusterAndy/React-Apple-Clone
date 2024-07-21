@@ -9,3 +9,14 @@ npm install
 ```
 npm run dev
 ```
+
+## Output Screens
+
+ 1. Hero Section
+ ![Hero](readmeImgs/Hero.png)
+ 2. Highlights Section
+ ![HighLihts](readmeImgs/Highlights.png)
+ 3. 3D Model
+ ![3D Model](readmeImgs/Model.png)
+ 4. Other
+ ![Other](readmeImgs/last.png)
